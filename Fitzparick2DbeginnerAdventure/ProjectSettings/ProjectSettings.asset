@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 00000000000000000000000000000000
+  productGUID: 100d8138086e78e4d8a415092dbedf11
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -916,7 +916,7 @@ PlayerSettings:
   cloudProjectId: 9603e5b2-bf20-4a3f-8d3d-51e48d506665
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: Fitzparick2DbeginnerAdventure
   organizationId: unity_736023
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
